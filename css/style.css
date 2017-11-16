@@ -1,0 +1,141 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+body {
+    margin-bottom: 50px;
+    background: none;
+}
+
+.montserrat {
+	font-family: 'Montserrat', sans-serif;
+	}
+	
+
+.ccname {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    padding-top:3px;
+	padding-left:10px;
+	text-align: center;
+	}
+	
+	
+.ccname2 {
+    font-family: 'Oswald', sans-serif;
+    color: #087002;
+    padding-top:15px;
+	padding-bottom:25px;
+	padding-left:10px;
+	text-align: center;}
+	
+	
+	
+.tag {
+    font-family: 'Oswald', sans-serif;
+    color: #ffffff;
+    padding-top:30px;
+	padding-left:10px;
+	text-align: center;
+	vertical-align:central;
+	}
+	
+	
+.textstyleleft {
+	font-family: 'Montserrat', sans-serif;
+	padding-top:55px;
+	text-align: center;
+	padding-right:25px;
+	}
+	
+.imagealignright {
+		right:auto;
+		}
+	
+.textstyleright {
+	font-family: 'Montserrat', sans-serif;
+	padding-top:35px;
+	text-align: center;
+	padding-right:10px;
+	color:white;
+	}	
+	
+.cellbackground {
+		background:#087002;
+		padding-top:10px;
+		padding-bottom:10px;
+		border-style:inset;
+		border-color:#000000;
+		}
+		
+.cellbackground2 {
+		background:#087002;
+		padding-top:5px;
+		padding-bottom:5px;
+		 border-radius: 5px;
+		}
+		
+		
+.cellbackground3 {
+		padding-top:10px;
+		padding-bottom:10px;
+		}
+
+.navtextstyle a {
+	font-family: 'Montserrat', sans-serif;
+	padding-top:15px;
+	padding-bottom:15px;
+	padding-left:5px;
+	padding-right:5px;
+	color:#ffffff;
+    text-decoration: none;
+	text-align: center;
+	}
+
+
+.tablestyle {
+		background:#087002;
+		border-style:solid;
+		border-color:black;
+		}
+		
+.navstyle {
+		background:#087002;
+		color:white;
+		text-align: center;
+		}
+		
+.imgsize{
+	max-width:100%;}
+	
+.bodytextstyle {
+	font-family: 'Montserrat', sans-serif;
+    color: #334c2c;
+	}	
+	
+	
+.headtextstyle {
+	font-family: 'Montserrat', sans-serif;
+    color: #334c2c;
+	text-align: center;
+	}
+
+.listyle {
+	font-family: 'Montserrat', sans-serif;
+    font-size: 14px;
+    color: #334c2c;
+	}
+
+.imageAndText {position: relative;} 
+.imageAndText .col {position: absolute; z-index: 1; top: 0; left: 0;}
+
+.padbott {
+	padding-bottom:3cm;
+	}
+	
+.padtop {
+	padding-top:3cm;
+	}
+
+
+
